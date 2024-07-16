@@ -1,6 +1,3 @@
-A PU KA - TI KA - I T S 
-
-
 curl -sSL https://install.python-poetry.org | python3 -
 
 export PATH="/home/estudante1/.local/bin:$PATH"
